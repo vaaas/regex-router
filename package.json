@@ -1,0 +1,15 @@
+{
+	"name": "regex-router",
+	"version": "1.0.0",
+	"description": "A router that uses regular expressions",
+	"main": "regex-router.js",
+	"keywords": [
+		"router"
+	],
+	"author": "vas",
+	"license": "WTFPL",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vaaas/regex-router.git"
+	}
+}
