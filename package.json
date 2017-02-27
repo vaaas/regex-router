@@ -7,7 +7,7 @@
 		"router"
 	],
 	"author": "vas",
-	"license": "WTFPL",
+	"license": "AGPL-3.0",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/vaaas/regex-router.git"
